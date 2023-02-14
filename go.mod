@@ -8,7 +8,7 @@ require (
 	github.com/aws/aws-sdk-go v1.34.8
 	github.com/frankban/quicktest v1.10.0 // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
-	github.com/gogo/protobuf v1.3.1 // indirect
+	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.4.2
 	github.com/google/go-cmp v0.5.0 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.0
@@ -32,10 +32,6 @@ require (
 	github.com/spf13/viper v1.7.1
 	go.opencensus.io v0.22.4 // indirect
 	go.uber.org/zap v1.15.0
-	golang.org/x/net v0.0.0-20200813134508-3edf25e44fcc // indirect
-	golang.org/x/sys v0.0.0-20200819171115-d785dc25833f // indirect
-	golang.org/x/text v0.3.3 // indirect
-	golang.org/x/tools v0.0.0-20200820010801-b793a1359eac // indirect
 	google.golang.org/api v0.28.0
 	google.golang.org/genproto v0.0.0-20200815001618-f69a88009b70 // indirect
 	google.golang.org/grpc v1.31.0
